@@ -10,7 +10,7 @@ background-image:url("backbody.jpg");
 
 header {
 color: #403a3a;
-background-color:#cf3389;
+background-color:#fc38a4b6;
 }
 
 .headerDiv {
@@ -71,12 +71,14 @@ vertical-align: middle;
     color: white;
 }
 
-
-
+.horizontalSplit1{
+  text-align: center;  
+background-color:#1e960ec7;
+}
 
 .horizontalSplit {
 display: table-cell;
-background-color:#62e650;
+background-color:#92ff83;
 }
 .counterFace {
 display: inline-block;
@@ -92,12 +94,12 @@ height: 180px;
 
 .event-registration1
 { text-align: center;
-  background-color:#372b9e;}
+  background-color:#0615e0c2;}
 
 
 .event-registration
 { 
-background-color:#372b9e;}
+background-color:#6adef3;}
 
 form {
     width: 70%;
